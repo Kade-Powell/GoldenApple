@@ -1,0 +1,1 @@
+{"rustc":6745623036801206703,"features":"","target":0,"profile":0,"path":0,"deps":[[2674127920265162376,"build_script_build",false,12366591885678443788]],"local":[{"RerunIfChanged":{"output":"release/build/futures-macro-a574102f63d2d71e/output","paths":["build.rs"]}}],"rustflags":[],"metadata":0,"config":0}
